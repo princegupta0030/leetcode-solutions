@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/princegupta0030/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/princegupta0030/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/princegupta0030/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/princegupta0030/leetcode-solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
