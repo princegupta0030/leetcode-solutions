@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/princegupta0030/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/princegupta0030/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/princegupta0030/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/princegupta0030/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/princegupta0030/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/princegupta0030/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
