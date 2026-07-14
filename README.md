@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/princegupta0030/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/princegupta0030/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/princegupta0030/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/princegupta0030/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/princegupta0030/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/princegupta0030/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/princegupta0030/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/princegupta0030/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/princegupta0030/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/princegupta0030/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/princegupta0030/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/princegupta0030/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Database
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/princegupta0030/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/princegupta0030/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/princegupta0030/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/princegupta0030/leetcode-solutions/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
