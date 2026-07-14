@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/princegupta0030/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/princegupta0030/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0605-can-place-flowers](https://github.com/princegupta0030/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/princegupta0030/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Database
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/princegupta0030/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/0047-permutations-ii) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/princegupta0030/leetcode-solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
