@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/princegupta0030/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0092-reverse-linked-list-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/princegupta0030/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
