@@ -3,6 +3,7 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+import gc
 class Solution(object):
     def reverseBetween(self, head, left, right):
         """
@@ -21,4 +22,5 @@ class Solution(object):
             b.next=temp.next
             temp.next=pre.next
             pre.next=temp
+        gc.collect()
         return a.next
