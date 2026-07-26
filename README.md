@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/princegupta0030/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/princegupta0030/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/princegupta0030/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/princegupta0030/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princegupta0030/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Database
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/princegupta0030/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/princegupta0030/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/princegupta0030/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princegupta0030/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/princegupta0030/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/princegupta0030/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/princegupta0030/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/princegupta0030/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/princegupta0030/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
 | ------- |
