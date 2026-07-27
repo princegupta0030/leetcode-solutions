@@ -4,8 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums.sort()
-        l=len(nums)
-        a=(nums[l-1]-1)*(nums[l-2]-1)
-        b=(nums[0]-1)*(nums[1]-1)
-        return max(a,b)
+        a=0
+        b=0
+        for n in nums:
+            if n>a:
+                b=a
+                a=n
+            elif n>b:
+                b=n
+        return (a-1)*(b-1)
