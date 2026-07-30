@@ -4,7 +4,8 @@ class Solution(object):
         :type word: str
         :rtype: int
         """
-        s=0
-        for i in range(len(word)):
-            s+=(i//8)+1
-        return s
+        l=len(word)
+        a=l//8
+        b=l%8
+        c=4*a*(a+1)+b*(a+1)
+        return c
