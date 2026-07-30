@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/princegupta0030/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/princegupta0030/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/princegupta0030/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princegupta0030/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/princegupta0030/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princegupta0030/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/princegupta0030/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princegupta0030/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/princegupta0030/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princegupta0030/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
