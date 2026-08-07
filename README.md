@@ -148,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/princegupta0030/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/princegupta0030/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/princegupta0030/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/princegupta0030/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/princegupta0030/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/princegupta0030/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
