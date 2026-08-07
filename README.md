@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/princegupta0030/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/princegupta0030/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/princegupta0030/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/princegupta0030/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/princegupta0030/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/princegupta0030/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/princegupta0030/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/princegupta0030/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/princegupta0030/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/princegupta0030/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/princegupta0030/leetcode-solutions/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/princegupta0030/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/princegupta0030/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/princegupta0030/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/princegupta0030/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/princegupta0030/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
