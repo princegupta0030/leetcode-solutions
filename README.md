@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/princegupta0030/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/princegupta0030/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/princegupta0030/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/princegupta0030/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/princegupta0030/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/princegupta0030/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/princegupta0030/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/princegupta0030/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/princegupta0030/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/princegupta0030/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/princegupta0030/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/princegupta0030/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/princegupta0030/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/princegupta0030/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/princegupta0030/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0392-is-subsequence](https://github.com/princegupta0030/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/princegupta0030/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
