@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/princegupta0030/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/princegupta0030/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princegupta0030/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/princegupta0030/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/princegupta0030/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/princegupta0030/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princegupta0030/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/princegupta0030/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/princegupta0030/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
