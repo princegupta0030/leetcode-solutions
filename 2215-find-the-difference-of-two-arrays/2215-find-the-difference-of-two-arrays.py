@@ -9,7 +9,6 @@ class Solution(object):
         s2=set(nums2)
         d1=[]
         d2=[]
-        
         for n in s1:
             if n not in s2:
                 d1.append(n)
