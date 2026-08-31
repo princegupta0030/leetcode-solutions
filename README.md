@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princegupta0030/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/princegupta0030/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princegupta0030/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/princegupta0030/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/princegupta0030/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/princegupta0030/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Database
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/princegupta0030/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/princegupta0030/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/princegupta0030/leetcode-solutions/tree/master/0268-missing-number) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/princegupta0030/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/princegupta0030/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/princegupta0030/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
