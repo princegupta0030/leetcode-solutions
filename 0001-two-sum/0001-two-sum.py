@@ -5,8 +5,11 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in range(len(nums)):
-            for j in range (i+1,len(nums)):
-                if nums[i]+nums[j]==target:
-                    return [i,j]
-        return[]
+        n_map={}
+        for i,n in enumerate(nums):
+            c=target-n
+            if c in n_map:
+                return[n_map[c],i]
+            n_map[n]=i
+        return []
+        
