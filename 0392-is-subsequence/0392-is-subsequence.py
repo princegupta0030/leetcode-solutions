@@ -6,7 +6,12 @@ class Solution(object):
         :rtype: bool
         """
         i=0
-        for j in range(len(t)):
-            if i<len(s) and s[i]==t[j]:
+        j=0
+        while i<len(s) and j<len(t):
+            if s[i]==t[j]:
                 i+=1
-        return i==len(s)
+            j+=1
+        if i==len(s):
+            return True
+        else:
+            return False
